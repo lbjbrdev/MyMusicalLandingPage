@@ -6,6 +6,8 @@ export const GlobalStyles = createGlobalStyle`
         padding: 0px;
 
         font-family: 'Inter';
+
+        overflow-x: hidden;
     }
 
     body {
