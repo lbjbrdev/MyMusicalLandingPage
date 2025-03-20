@@ -9,7 +9,7 @@ export function useHome() {
 
     const handleOpenContact = (type: ContactType) => {
         const instagramUrl = import.meta.env.VITE_APP_INSTAGRAM_MAIN_URL;
-        const wppUrl = import.meta.env.VITE_APP_WPP_MESSAGE_URL;
+        const wppUrl = import.meta.env.VITE_APP_WPP_CUSTOM_MESSAGE_URL;
         const mailUrl = import.meta.env.VITE_APP_MAIL_MESSAGE_URL;
 
         if (type === 'instagram') window.open(instagramUrl, '_blank');
