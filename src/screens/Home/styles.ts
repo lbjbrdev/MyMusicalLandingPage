@@ -8,7 +8,9 @@ export const Container = styled.div`
 `;
 
 export const Avatar = styled.img`
-    margin-top: 150px;
+    margin-top: 10px;
+
+    width: 200px;
 
     cursor: pointer;
 
@@ -24,7 +26,7 @@ export const Title = styled.p`
 
     margin-top: 50px;
 
-    font-size: 42px;
+    font-size: 32px;
 
     text-align: center;
 `;
@@ -34,7 +36,7 @@ export const SubTitle = styled.p`
 
     margin-top: 25px;
 
-    font-size: 38px;
+    font-size: 28px;
 
     text-align: center;
 `;
@@ -52,7 +54,7 @@ export const DescriptionContainer = styled.div`
 export const Description = styled.p`
     color: #fff;
 
-    font-size: 23px;
+    font-size: 13px;
 
     text-align: center;
 `;
@@ -93,7 +95,7 @@ export const ShowMoreAction = styled.button`
     color: #fff;
 
     font-weight: bold;
-    font-size: 16px;
+    font-size: 6px;
 
     text-align: center;
 
@@ -136,7 +138,7 @@ export const Icon = styled.img`
 export const IconLabel = styled.p`
     color: #fff;
 
-    font-size: 30px;
+    font-size: 20px;
 
     text-align: center;
 `;
@@ -144,7 +146,7 @@ export const IconLabel = styled.p`
 export const DeveloperLabel = styled.p`
     color: #fff;
 
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
 
     margin-top: 50px;
