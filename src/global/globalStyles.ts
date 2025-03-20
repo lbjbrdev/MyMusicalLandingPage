@@ -7,6 +7,8 @@ export const GlobalStyles = createGlobalStyle`
     }
 
     body {
+        overflow-x: hidden;
+        
         background-color: #172242;
 
         display: flex;
