@@ -95,7 +95,7 @@ export const ShowMoreAction = styled.button`
     color: #fff;
 
     font-weight: bold;
-    font-size: 6px;
+    font-size: 16px;
 
     text-align: center;
 
