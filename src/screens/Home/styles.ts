@@ -25,6 +25,8 @@ export const Title = styled.p`
     margin-top: 50px;
 
     font-size: 42px;
+
+    text-align: center;
 `;
 
 export const SubTitle = styled.p`
@@ -33,6 +35,8 @@ export const SubTitle = styled.p`
     margin-top: 25px;
 
     font-size: 38px;
+
+    text-align: center;
 `;
 
 export const DescriptionContainer = styled.div`
@@ -49,6 +53,8 @@ export const Description = styled.p`
     color: #fff;
 
     font-size: 23px;
+
+    text-align: center;
 `;
 
 export const Divider = styled.hr`
@@ -88,6 +94,8 @@ export const ShowMoreAction = styled.button`
 
     font-weight: bold;
     font-size: 16px;
+
+    text-align: center;
 
     cursor: pointer;
 
@@ -129,6 +137,8 @@ export const IconLabel = styled.p`
     color: #fff;
 
     font-size: 30px;
+
+    text-align: center;
 `;
 
 export const DeveloperLabel = styled.p`
@@ -139,6 +149,8 @@ export const DeveloperLabel = styled.p`
 
     margin-top: 50px;
     margin-bottom: 35px;
+
+    text-align: center;
 `;
 
 export const Link = styled.a``;
