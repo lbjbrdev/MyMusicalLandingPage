@@ -54,7 +54,7 @@ export const DescriptionContainer = styled.div`
 export const Description = styled.p`
     color: #fff;
 
-    font-size: 13px;
+    font-size: 18px;
 
     text-align: center;
 `;
@@ -120,7 +120,7 @@ export const IconsContainer = styled.div`
 export const IconRow = styled.div`
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 5px;
 
     cursor: pointer;
 
