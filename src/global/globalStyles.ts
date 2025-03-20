@@ -4,11 +4,13 @@ export const GlobalStyles = createGlobalStyle`
     * {
         margin: 10px;
         padding: 0px;
+
+        font-family: 'Inter';
     }
 
     body {
         overflow-x: hidden;
-        
+
         background-color: #172242;
 
         display: flex;
